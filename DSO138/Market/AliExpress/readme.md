@@ -36,6 +36,7 @@ sch: https://www.aliexpress.us/w/wholesale-DSO138.html?spm=a2g0o.detail.search.0
 - https://www.aliexpress.us/item/3256806222473134.html
 - https://www.aliexpress.us/item/3256806264612772.html
 - https://www.aliexpress.us/item/2251832775395172.html
+- https://www.aliexpress.us/item/3256805428051121.html
 
 ## alt:
 This may be incomplete! Only purchase as a Test when I have more money.
