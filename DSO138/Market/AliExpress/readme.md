@@ -5,21 +5,26 @@ sch: https://www.aliexpress.us/w/wholesale-DSO138.html?spm=a2g0o.detail.search.0
 # May need to guy Power Supply separate.
 
 # Cheapest:
-- $9.32 https://www.aliexpress.us/item/3256805258622832.html
-- 43 Sold!, $14.50 https://www.aliexpress.us/item/3256805867195908.html
+- 12.53 https://www.aliexpress.us/item/3256806243459906.html
+
+# Best Seller:
+- 14.30 https://www.aliexpress.us/item/3256805903965349.html
+- 14.50 https://www.aliexpress.us/item/3256805867195908.html
 
 # Assembled
-- 18.25 https://www.aliexpress.us/item/3256805867195908.html
 - 12.53 https://www.aliexpress.us/item/3256806243459906.html
+- 14.30 https://www.aliexpress.us/item/3256805903965349.html
+- 14.50 https://www.aliexpress.us/item/3256805867195908.html
+- 16.82 https://www.aliexpress.us/item/3256806257280073.html
+- 17.05 https://www.aliexpress.us/item/3256805535170441.html
 - 17.99 https://www.aliexpress.us/item/3256806234944412.html
-- 24.76 https://www.aliexpress.us/item/3256805368337563.html
+- 18.19 https://www.aliexpress.us/item/3256805926748709.html
+- 18.20 https://www.aliexpress.us/item/3256805929984211.html
+- 18.25 https://www.aliexpress.us/item/3256805867195908.html
+- 19.16 https://www.aliexpress.us/item/3256805258622832.html
 - 19.16 https://www.aliexpress.us/item/3256805258622832.html
 - 19.16 https://www.aliexpress.us/item/3256805729794287.html
-- 14.30 https://www.aliexpress.us/item/3256805903965349.html
-- 17.05 https://www.aliexpress.us/item/3256805535170441.html
-- 18.20 https://www.aliexpress.us/item/3256805929984211.html
-- 18.19 https://www.aliexpress.us/item/3256805926748709.html
-- 16.82 https://www.aliexpress.us/item/3256806257280073.html
+- 24.76 https://www.aliexpress.us/item/3256805368337563.html
 
 # Kit
 - 12.89 https://www.aliexpress.us/item/2251832675521111.html
