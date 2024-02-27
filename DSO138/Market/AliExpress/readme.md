@@ -15,7 +15,7 @@ sch: https://www.aliexpress.us/w/wholesale-DSO138.html?spm=a2g0o.detail.search.0
 - 24.76 https://www.aliexpress.us/item/3256805368337563.html
 - 19.16 https://www.aliexpress.us/item/3256805258622832.html
 - 19.16 https://www.aliexpress.us/item/3256805729794287.html
-- https://www.aliexpress.us/item/3256805903965349.html
+- 14.30 https://www.aliexpress.us/item/3256805903965349.html
 - https://www.aliexpress.us/item/3256805535170441.html
 - https://www.aliexpress.us/item/3256805929984211.html
 - https://www.aliexpress.us/item/3256805926748709.html
