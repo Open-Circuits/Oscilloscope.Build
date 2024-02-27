@@ -5,7 +5,7 @@ sch: https://www.aliexpress.us/w/wholesale-DSO138.html?spm=a2g0o.detail.search.0
 # May need to guy Power Supply separate.
 
 # Cheapest:
-- 12.53 https://www.aliexpress.us/item/3256806243459906.html
+- 14.50 + 1 Shipping 48 sold! https://www.aliexpress.us/item/3256805867195908.html
 
 # Best Seller:
 - 14.30 https://www.aliexpress.us/item/3256805903965349.html
