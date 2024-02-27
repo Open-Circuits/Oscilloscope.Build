@@ -12,7 +12,7 @@ sch: https://www.aliexpress.us/w/wholesale-DSO138.html?spm=a2g0o.detail.search.0
 - 14.50 48 sold! https://www.aliexpress.us/item/3256805867195908.html
 
 # Assembled
-- 12.53 https://www.aliexpress.us/item/3256806243459906.html
+- 12.53 + 4.55 https://www.aliexpress.us/item/3256806243459906.html
 
 - 18.25 + 1 https://www.aliexpress.us/item/3256805867195908.html
 - 16.82 https://www.aliexpress.us/item/3256806257280073.html
