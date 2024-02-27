@@ -16,13 +16,13 @@ sch: https://www.aliexpress.us/w/wholesale-DSO138.html?spm=a2g0o.detail.search.0
 - 19.16 https://www.aliexpress.us/item/3256805258622832.html
 - 19.16 https://www.aliexpress.us/item/3256805729794287.html
 - 14.30 https://www.aliexpress.us/item/3256805903965349.html
-- https://www.aliexpress.us/item/3256805535170441.html
-- https://www.aliexpress.us/item/3256805929984211.html
-- https://www.aliexpress.us/item/3256805926748709.html
-- https://www.aliexpress.us/item/2251832675521111.html
-- https://www.aliexpress.us/item/3256806257280073.html
+- 17.05 https://www.aliexpress.us/item/3256805535170441.html
+- 18.20 https://www.aliexpress.us/item/3256805929984211.html
+- 18.19 https://www.aliexpress.us/item/3256805926748709.html
+- 16.82 https://www.aliexpress.us/item/3256806257280073.html
 
 # Kit
+- 12.89 https://www.aliexpress.us/item/2251832675521111.html
 - https://www.aliexpress.us/item/3256805639761264.html
 - https://www.aliexpress.us/item/2251832771391618.html
 - https://www.aliexpress.us/item/2251832675521111.html
