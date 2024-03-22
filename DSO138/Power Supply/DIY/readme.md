@@ -13,6 +13,8 @@ https://www.aliexpress.us/w/wholesale-5.5%252F2.2mm.html?spm=a2g0o.detail.search
 
 # Index:
 ## 5.5*2.1mm
+- https://www.aliexpress.us/item/3256805936648365.html
+- https://www.aliexpress.us/item/3256805956983115.html
 - https://www.aliexpress.us/item/3256806392446140.html
 - https://www.aliexpress.us/item/3256806392692554.html
 - https://www.aliexpress.us/item/3256806159077307.html
