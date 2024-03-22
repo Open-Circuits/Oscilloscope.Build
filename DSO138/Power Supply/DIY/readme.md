@@ -8,6 +8,8 @@ size: 5.5 / 2.2mm  https://www.reddit.com/r/AskElectronics/comments/djojl3/power
 
 ## 5.5*2.1mm
 - https://www.aliexpress.us/w/wholesale-2.1x5.5mm.html?spm=a2g0o.detail.search.0
+- https://www.aliexpress.us/w/wholesale-5pairs-Female-And-Male-DC-Connectors-2.1x5.5mm-Pow.html?spm=a2g0o.home.search.0
+
 ## 5.5*2.2mm
 https://www.aliexpress.us/w/wholesale-5.5%252F2.2mm.html?spm=a2g0o.detail.search.0
 
@@ -23,3 +25,7 @@ https://www.aliexpress.us/w/wholesale-5.5%252F2.2mm.html?spm=a2g0o.detail.search
 - https://www.aliexpress.us/item/3256806392558993.html
 - https://www.aliexpress.us/item/3256806159077307.html
 - https://www.aliexpress.us/item/3256806392692554.html
+- https://www.aliexpress.us/item/3256806159077307.html
+
+## Female & Male
+- https://www.aliexpress.us/item/3256805807574738.html
