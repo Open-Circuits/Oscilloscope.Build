@@ -18,3 +18,6 @@ https://www.aliexpress.us/w/wholesale-5.5%252F2.2mm.html?spm=a2g0o.detail.search
 - https://www.aliexpress.us/item/3256806159077307.html
 - https://www.aliexpress.us/item/3256805807574738.html
 - https://www.aliexpress.us/item/2251832644292777.html
+- https://www.aliexpress.us/item/3256806392558993.html
+- https://www.aliexpress.us/item/3256806159077307.html
+- https://www.aliexpress.us/item/3256806392692554.html
